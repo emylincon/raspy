@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+clear
 echo "============== Preparing to Install Python3.6 ==================="
 sleep 3
 
@@ -11,3 +11,6 @@ cd Python-3.6.3
 make
 make install
 pip3 install --upgrade pip
+sleep 3
+clear
+echo "================== Installation of Python3.6 done ===================="
