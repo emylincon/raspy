@@ -1,4 +1,4 @@
-## Install python3.6 on Raspberry pi
+## Install python3.6 on Raspberry pi 3
 
 #### To Run
 ```
